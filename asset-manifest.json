@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ablack/static/css/main.ceb9d53f.css",
-    "main.js": "/Ablack/static/js/main.620eb4c1.js",
+    "main.css": "/Ablack/static/css/main.7c3c4982.css",
+    "main.js": "/Ablack/static/js/main.6849f7d5.js",
     "static/media/model-back.jpg": "/Ablack/static/media/model-back.533ef576f0c623604502.jpg",
     "static/media/model.jpg": "/Ablack/static/media/model.ae912d2ea62943f2237d.jpg",
     "static/media/model1.jpg": "/Ablack/static/media/model1.4c683dfe83c1fece1f6c.jpg",
@@ -14,11 +14,11 @@
     "static/media/product1.jpg": "/Ablack/static/media/product1.79f1fa0bbbccd7766b13.jpg",
     "static/media/product4.jpg": "/Ablack/static/media/product4.96ab0dc672b8a4a687d3.jpg",
     "index.html": "/Ablack/index.html",
-    "main.ceb9d53f.css.map": "/Ablack/static/css/main.ceb9d53f.css.map",
-    "main.620eb4c1.js.map": "/Ablack/static/js/main.620eb4c1.js.map"
+    "main.7c3c4982.css.map": "/Ablack/static/css/main.7c3c4982.css.map",
+    "main.6849f7d5.js.map": "/Ablack/static/js/main.6849f7d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceb9d53f.css",
-    "static/js/main.620eb4c1.js"
+    "static/css/main.7c3c4982.css",
+    "static/js/main.6849f7d5.js"
   ]
 }
